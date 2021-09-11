@@ -1,0 +1,1 @@
+This is a short project to setup a basic html page and subpages that containt both absolute and relative links and images.
